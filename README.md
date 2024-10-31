@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/satvik rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satvik rajput" height="30" width="40" /></a>
 <a href="https://kaggle.com/satvikrajput123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satvikrajput123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/satvikrajput32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satvikrajput32" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satvik rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satvik rajput" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/SatvikRajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satvik rajput" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/satvikrajput32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satvikrajput32" height="30" width="40" /></a>
 </p>
 
